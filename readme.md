@@ -1,6 +1,6 @@
 # article preview component master
 
-este proyecto esta creado para apreder las siguentes tecnogias web
+Este proyecto esta creado para aprender las siguientes tecnologías web
 
 1. React
 2. Vite
